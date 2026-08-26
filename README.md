@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Luiz Victor
+#  Olá! Eu sou Luiz Victor
 
 💻 Desenvolvedor Backend em formação
 
@@ -22,7 +22,7 @@ como estagiário em desenvolvimento backend.
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 - 🐍 Python
 - 🌐 Django
@@ -34,7 +34,7 @@ como estagiário em desenvolvimento backend.
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
 ### 🌐 Projetos Django
 
@@ -72,7 +72,7 @@ como programador.
 ## 📫 Contato
 
 📧 Email: luizvictorcae@gmail.com
-💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/)
+💼 LinkedIn: [[Meu LinkedIn]](https://www.linkedin.com/in/luiz-caetano-85b946300/)
 
 ---
 
