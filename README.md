@@ -1,14 +1,14 @@
 #  Seja Bem-Vindo
 
-💻 Desenvolvedor Backend em formação
+ Desenvolvedor Backend em formação
 
-🎯 Atualmente estou focado em Python e Django, buscando evoluir
+ Atualmente estou focado em Python e Django, buscando evoluir
 minhas habilidades para conquistar minha primeira oportunidade
 como estagiário em desenvolvimento backend.
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 <div align="left">
 
@@ -24,32 +24,32 @@ como estagiário em desenvolvimento backend.
 
 ##  Atualmente estudando
 
-- 🐍 Python
-- 🌐 Django
-- 🗄️ PostgreSQL
-- 🔗 Django REST Framework
-- 🛠️ Git e GitHub
-- 🧩 APIs REST
-- 🗃️ SQL e ORM
+-  Python
+-  Django
+-  PostgreSQL
+-  Django REST Framework
+-  Git e GitHub
+-  APIs REST
+-  SQL e ORM
 
 ---
 
 ##  Projetos
 
-### 🌐 Projetos Django
+###  Projetos Django
 
 Projetos desenvolvidos durante meus estudos para praticar
 desenvolvimento backend, banco de dados, autenticação,
 CRUD e APIs.
 
-### 🐍 Projetos Python
+###  Projetos Python
 
 Projetos desenvolvidos para praticar lógica de programação,
 POO, manipulação de dados e integração com bancos de dados.
 
 ---
 
-## 🎯 Meu objetivo
+##  Meu objetivo
 
 Conseguir minha primeira oportunidade como estagiário
 na área de desenvolvimento backend e continuar evoluindo
@@ -57,7 +57,7 @@ como programador.
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <div align="center">
 
@@ -69,7 +69,7 @@ como programador.
 
 ---
 
-## 📫 Contato
+##  Contato
 
 📧 Email: luizvictorcae@gmail.com
 💼 LinkedIn: [[Meu LinkedIn]](https://www.linkedin.com/in/luiz-caetano-85b946300/)
